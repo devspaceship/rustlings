@@ -21,9 +21,4 @@ mod tests {
     fn is_false_when_odd() {
         assert_eq!(is_even(1337), false);
     }
-
-    #[test]
-    fn is_false_when_odd() {
-        assert!();
-    }
 }
